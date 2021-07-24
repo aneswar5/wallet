@@ -1,11 +1,5 @@
 import './App.css';
 import React, { useState } from 'react';
-// import AllWallets from './component/AllWallets';
-// import NewWallet from './component/NewWallet';
-// import CheckBalance from './component/CheckBalance';
-// import AddFunds from './component/AddFunds';
-// import SpendFunds from './component/SpendFunds';
-// import AllTransactions from './component/AllTransactions';
 import AllWallets from './component/AllWallets';
 import NewWallet from './component/NewWallet';
 import CheckBalance from './component/CheckBalance';

@@ -1,4 +1,3 @@
-import React, { useState } from 'react';
 import './Wallets.css';
 import { arr } from './Data';
 function AllWallets() {
