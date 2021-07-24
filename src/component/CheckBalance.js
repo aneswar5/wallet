@@ -10,7 +10,7 @@ function CheckBalance() {
   const getBalance = e => {
     e.preventDefault();
     {
-      arr.map((ele, idx) => {
+      arr.map(ele => {
         return ele[1] === selectedName ? setAns(ele[3]) : null;
       });
     }
